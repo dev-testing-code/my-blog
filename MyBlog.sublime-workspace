@@ -1,0 +1,864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"author"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"tex",
+				"text-muted"
+			],
+			[
+				"crea",
+				"created"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"get",
+				"getClientOriginalName"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"for",
+				"foreach〔keyword〕"
+			],
+			[
+				"sho",
+				"short_desc"
+			],
+			[
+				"sh",
+				"short_desc"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"btn",
+				"button"
+			],
+			[
+				"h",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/admin/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 383,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					4,
+					"left_delete",
+					null,
+					"BAAAAE8DAAAAAAAATwMAAAAAAAD1AAAAPGRpdiBzdHlsZT0iaGVpZ2h0OiAxMDB2aCI+PC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCBtYi00Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1ib2R5Ij5XaGVuIHNjcm9sbGluZywgdGhlIG5hdmlnYXRpb24gc3RheXMgYXQgdGhlIHRvcCBvZiB0aGUgcGFnZS4gVGhpcyBpcyB0aGUgZW5kIG9mCiAgICAgICAgICAgICAgICB0aGUgc3RhdGljIG5hdmlnYXRpb24gZGVtby48L2Rpdj4KICAgICAgICA8L2Rpdj5LAwAAAAAAAEsDAAAAAAAABAAAACAgICBHAwAAAAAAAEcDAAAAAAAABAAAACAgICBGAwAAAAAAAEYDAAAAAAAAAQAAAAo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATwMAAAAAAABEBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"cut",
+					null,
+					"AQAAAJcBAAAAAAAAlwEAAAAAAACNAQAAPHAgY2xhc3M9Im1iLTAiPgogICAgICAgICAgICAgICAgICAgIFRoaXMgcGFnZSBpcyBhbiBleGFtcGxlIG9mIHVzaW5nIHN0YXRpYyBuYXZpZ2F0aW9uLiBCeSByZW1vdmluZyB0aGUKICAgICAgICAgICAgICAgICAgICA8Y29kZT4uc2ItbmF2LWZpeGVkPC9jb2RlPgogICAgICAgICAgICAgICAgICAgIGNsYXNzIGZyb20gdGhlCiAgICAgICAgICAgICAgICAgICAgPGNvZGU+Ym9keTwvY29kZT4KICAgICAgICAgICAgICAgICAgICAsIHRoZSB0b3AgbmF2aWdhdGlvbiBhbmQgc2lkZSBuYXZpZ2F0aW9uIHdpbGwgYmVjb21lIHN0YXRpYyBvbiBzY3JvbGwuIFNjcm9sbCBkb3duIHRoaXMgcGFnZSB0byBzZWUKICAgICAgICAgICAgICAgICAgICBhbiBleGFtcGxlLgogICAgICAgICAgICAgICAgPC9wPg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlwEAAAAAAAAkAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					5,
+					"left_delete",
+					null,
+					"BQAAAJMBAAAAAAAAkwEAAAAAAAAEAAAAICAgII8BAAAAAAAAjwEAAAAAAAAEAAAAICAgIIsBAAAAAAAAiwEAAAAAAAAEAAAAICAgIIcBAAAAAAAAhwEAAAAAAAAEAAAAICAgIIYBAAAAAAAAhgEAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					10,
+					"left_delete",
+					null,
+					"CgAAANkAAAAAAAAA2QAAAAAAAAABAAAAbNgAAAAAAAAA2AAAAAAAAAABAAAAbdcAAAAAAAAA1wAAAAAAAAABAAAAdNYAAAAAAAAA1gAAAAAAAAABAAAAaNUAAAAAAAAA1QAAAAAAAAABAAAALtQAAAAAAAAA1AAAAAAAAAABAAAAeNMAAAAAAAAA0wAAAAAAAAABAAAAZdIAAAAAAAAA0gAAAAAAAAABAAAAZNEAAAAAAAAA0QAAAAAAAAABAAAAbtAAAAAAAAAA0AAAAAAAAAABAAAAaQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "/a"
+					},
+					"AgAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "dmin"
+					},
+					"BAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA0wAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANUAAAAAAAAAAAAAANUAAAAAAAAA1gAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOsAAAAAAAAA6wAAAAAAAABGAAAAICAgICAgICAgICAgPGxpIGNsYXNzPSJicmVhZGNydW1iLWl0ZW0gYWN0aXZlIj5TdGF0aWMgTmF2aWdhdGlvbjwvbGk+Cg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6wAAAAAAAAAxAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "resources/views/frontend/category.blade.php",
+			"settings":
+			{
+				"buffer_size": 5776,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUMAAAAAAAA9QwAAAAAAABeEQAAPCEtLSBOZXN0ZWQgcm93IGZvciBub24tZmVhdHVyZWQgYmxvZyBwb3N0cy0tPgogICAgICAgICAgICAgICAgICAgIHt7LS0gPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBCbG9nIHBvc3QtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgbWItNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyEiPjxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSJodHRwczovL2R1bW15aW1hZ2UuY29tLzcwMHgzNTAvZGVlMmU2LzZjNzU3ZC5qcGciIGFsdD0iLi4uIiAvPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbCB0ZXh0LW11dGVkIj5KYW51YXJ5IDEsIDIwMjE8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJjYXJkLXRpdGxlIGg0Ij5Qb3N0IFRpdGxlPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIFJlaWNpZW5kaXMgYWxpcXVpZCBhdHF1ZSwgbnVsbGEuPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBocmVmPSIjISI+UmVhZCBtb3JlIOKGkjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBCbG9nIHBvc3QtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgbWItNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyEiPjxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSJodHRwczovL2R1bW15aW1hZ2UuY29tLzcwMHgzNTAvZGVlMmU2LzZjNzU3ZC5qcGciIGFsdD0iLi4uIiAvPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbCB0ZXh0LW11dGVkIj5KYW51YXJ5IDEsIDIwMjE8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJjYXJkLXRpdGxlIGg0Ij5Qb3N0IFRpdGxlPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIFJlaWNpZW5kaXMgYWxpcXVpZCBhdHF1ZSwgbnVsbGEuPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBocmVmPSIjISI+UmVhZCBtb3JlIOKGkjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBCbG9nIHBvc3QtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgbWItNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyEiPjxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSJodHRwczovL2R1bW15aW1hZ2UuY29tLzcwMHgzNTAvZGVlMmU2LzZjNzU3ZC5qcGciIGFsdD0iLi4uIiAvPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbCB0ZXh0LW11dGVkIj5KYW51YXJ5IDEsIDIwMjE8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJjYXJkLXRpdGxlIGg0Ij5Qb3N0IFRpdGxlPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIFJlaWNpZW5kaXMgYWxpcXVpZCBhdHF1ZSwgbnVsbGEuPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBocmVmPSIjISI+UmVhZCBtb3JlIOKGkjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBCbG9nIHBvc3QtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgbWItNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyEiPjxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSJodHRwczovL2R1bW15aW1hZ2UuY29tLzcwMHgzNTAvZGVlMmU2LzZjNzU3ZC5qcGciIGFsdD0iLi4uIiAvPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbCB0ZXh0LW11dGVkIj5KYW51YXJ5IDEsIDIwMjE8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJjYXJkLXRpdGxlIGg0Ij5Qb3N0IFRpdGxlPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIFJlaWNpZW5kaXMgYWxpcXVpZCBhdHF1ZSwgbnVsbGE/IFF1b3MgY3VtIGV4IHF1aXMgc29sdXRhLCBhIGxhYm9yaW9zYW0uPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBocmVmPSIjISI+UmVhZCBtb3JlIOKGkjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gLS19fQogICAgICAgICAgICAgICAgICAgIDwhLS0gUGFnaW5hdGlvbi0tPgogICAgICAgICAgICAgICAgICAgIHt7LS0gPG5hdiBhcmlhLWxhYmVsPSJQYWdpbmF0aW9uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGhyIGNsYXNzPSJteS0wIiAvPgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9InBhZ2luYXRpb24ganVzdGlmeS1jb250ZW50LWNlbnRlciBteS00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIGRpc2FibGVkIj48YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSIjIiB0YWJpbmRleD0iLTEiIGFyaWEtZGlzYWJsZWQ9InRydWUiPk5ld2VyPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InBhZ2UtaXRlbSBhY3RpdmUiIGFyaWEtY3VycmVudD0icGFnZSI+PGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0iIyEiPjE8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj48YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSIjISI+MjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPjxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9IiMhIj4zPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InBhZ2UtaXRlbSBkaXNhYmxlZCI+PGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0iIyEiPi4uLjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPjxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9IiMhIj4xNTwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPjxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9IiMhIj5PbGRlcjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgIDwvbmF2PiAtLX19",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA9QwAAAAAAABLHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					4,
+					"left_delete",
+					null,
+					"BAAAACMXAAAAAAAAIxcAAAAAAABiAAAAPCEtLSA8c2NyaXB0IHNyYz0ianMvc2NyaXB0cy5qcyI+PC9zY3JpcHQ+IC0tPgogICAgICAgIHt7LS0ge3tIdG1sOjpzY3JpcHQoJ2pzL3NjcmlwdHMuanMnKX19IC0tfX0fFwAAAAAAAB8XAAAAAAAABAAAACAgICAbFwAAAAAAABsXAAAAAAAABAAAACAgICAaFwAAAAAAABoXAAAAAAAAAQAAAAo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIxcAAAAAAACFFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					4,
+					"left_delete",
+					null,
+					"BAAAAGMBAAAAAAAAYwEAAAAAAADAAAAAe3stLSA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iYXNzZXRzL2Zhdmljb24uaWNvIiAvPiAtLX19CiAgICAgICAgPCEtLSBDb3JlIHRoZW1lIENTUyAoaW5jbHVkZXMgQm9vdHN0cmFwKS0tPgogICAgICAgIDwhLS0gPGxpbmsgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz4gLS0+XwEAAAAAAABfAQAAAAAAAAQAAAAgICAgWwEAAAAAAABbAQAAAAAAAAQAAAAgICAgWgEAAAAAAABaAQAAAAAAAAEAAAAK",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYwEAAAAAAAAjAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "resources/views/frontend/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 6484,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					4,
+					"left_delete",
+					null,
+					"BAAAAGEBAAAAAAAAYQEAAAAAAACxAAAAIDwhLS0gIDxsaW5rIHJlbD0iaWNvbiIgdHlwZT0iaW1hZ2UveC1pY29uIiBocmVmPSJhc3NldHMvZmF2aWNvbi5pY28iIC8+CiAgICAgICAgIENvcmUgdGhlbWUgQ1NTIChpbmNsdWRlcyBCb290c3RyYXApCiAgICAgICAgPGxpbmsgaHJlZj0iY3NzL3N0eWxlcy5jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz4gLS0+XwEAAAAAAABfAQAAAAAAAAIAAAAgIFsBAAAAAAAAWwEAAAAAAAAEAAAAICAgIFoBAAAAAAAAWgEAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYQEAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AgAAACcTAAAAAAAABRYAAAAAAAAAAAAABRYAAAAAAAAFFgAAAAAAAGoEAAA8ZGl2IGNsYXNzPSJjYXJkIG1iLTQiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWhlYWRlciI+Q2F0ZWdvcmllczwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdC11bnN0eWxlZCBtYi0wIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIjISI+V2ViIERlc2lnbjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMhIj5IVE1MPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyEiPkZyZWViaWVzPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtdW5zdHlsZWQgbWItMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyEiPkphdmFTY3JpcHQ8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIjISI+Q1NTPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyEiPlR1dG9yaWFsczwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJxMAAAAAAACRFwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "resources/views/admin/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 6776,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACUCAAAAAAAAJgIAAAAAAAAAAAAAJgIAAAAAAAAuAgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJQIAAAAAAAAlAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAC4CAAAAAAAAbwMAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALgIAAAAAAAAuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AgAAAFEHAAAAAAAAqQsAAAAAAAAAAAAAqQsAAAAAAACpCwAAAAAAAJ8CAAA8bGkgY2xhc3M9Im5hdi1pdGVtIGRyb3Bkb3duIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsgZHJvcGRvd24tdG9nZ2xlIiBpZD0ibmF2YmFyRHJvcGRvd24iIGhyZWY9IiMiIHJvbGU9ImJ1dHRvbiIgZGF0YS1icy10b2dnbGU9ImRyb3Bkb3duIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+PGkgY2xhc3M9ImZhcyBmYS11c2VyIGZhLWZ3Ij48L2k+PC9hPgogICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSBkcm9wZG93bi1tZW51LWVuZCIgYXJpYS1sYWJlbGxlZGJ5PSJuYXZiYXJEcm9wZG93biI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyEiPlNldHRpbmdzPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyEiPkFjdGl2aXR5IExvZzwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGhyIGNsYXNzPSJkcm9wZG93bi1kaXZpZGVyIiAvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyEiPkxvZ291dDwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2xpPg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUQcAAAAAAADwCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAKUWAAAAAAAAqhYAAAAAAAAAAAAABBYAAAAAAAAJFgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABBYAAAAAAAClFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					10,
+					"left_delete",
+					null,
+					"CgAAACkEAAAAAAAAKQQAAAAAAAABAAAAbCgEAAAAAAAAKAQAAAAAAAABAAAAbScEAAAAAAAAJwQAAAAAAAABAAAAdCYEAAAAAAAAJgQAAAAAAAABAAAAaCUEAAAAAAAAJQQAAAAAAAABAAAALiQEAAAAAAAAJAQAAAAAAAABAAAAeCMEAAAAAAAAIwQAAAAAAAABAAAAZSIEAAAAAAAAIgQAAAAAAAABAAAAZCEEAAAAAAAAIQQAAAAAAAABAAAAbiAEAAAAAAAAIAQAAAAAAAABAAAAaQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKgQAAAAAAAAqBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "/a"
+					},
+					"AgAAACAEAAAAAAAAIQQAAAAAAAAAAAAAIQQAAAAAAAAiBAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIAQAAAAAAAAgBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "dmin"
+					},
+					"BAAAACIEAAAAAAAAIwQAAAAAAAAAAAAAIwQAAAAAAAAkBAAAAAAAAAAAAAAkBAAAAAAAACUEAAAAAAAAAAAAACUEAAAAAAAAJgQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIgQAAAAAAAAiBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					9,
+					"left_delete",
+					null,
+					"CQAAAFENAAAAAAAAUQ0AAAAAAAABAAAAbFANAAAAAAAAUA0AAAAAAAABAAAAbU8NAAAAAAAATw0AAAAAAAABAAAAdE4NAAAAAAAATg0AAAAAAAABAAAAaE0NAAAAAAAATQ0AAAAAAAABAAAALkwNAAAAAAAATA0AAAAAAAABAAAAeEsNAAAAAAAASw0AAAAAAAABAAAAZUoNAAAAAAAASg0AAAAAAAABAAAAZEkNAAAAAAAASQ0AAAAAAAABAAAAbg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUg0AAAAAAABSDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEgNAAAAAAAASA0AAAAAAAABAAAAaQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASQ0AAAAAAABJDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": "/admi"
+					},
+					"BQAAAEgNAAAAAAAASQ0AAAAAAAAAAAAASQ0AAAAAAABKDQAAAAAAAAAAAABKDQAAAAAAAEsNAAAAAAAAAAAAAEsNAAAAAAAATA0AAAAAAAAAAAAATA0AAAAAAABNDQAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASA0AAAAAAABIDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAE0NAAAAAAAATg0AAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAATQ0AAAAAAABNDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAPwVAAAAAAAA/BUAAAAAAAAFAAAAe3stLSCdFgAAAAAAAJ0WAAAAAAAABQAAACAtLX19",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA/BUAAAAAAACnFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					171,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAJ0WAAAAAAAAohYAAAAAAAAAAAAA/BUAAAAAAAABFgAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA/BUAAAAAAACdFgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/FrontendController.php",
+			"settings":
+			{
+				"buffer_size": 2626,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAHgJAAAAAAAAeQkAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeAkAAAAAAAB4CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHgJAAAAAAAAeAkAAAAAAAABAAAAaQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeQkAAAAAAAB5CQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "I"
+					},
+					"AQAAAHgJAAAAAAAAeQkAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeAkAAAAAAAB4CQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"findu",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"use",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"impot",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"im",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"",
+				"Set Syntax: OCaml"
+			],
+			[
+				"Sidebar",
+				"SideBarHider: Toggle Autohide for Current Window"
+			],
+			[
+				"Find",
+				"PHPCompanion:Find Use"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/macbookpro/Projects/my-blog",
+		"/Users/macbookpro/Projects/my-blog/public"
+	],
+	"file_history":
+	[
+		"/Users/macbookpro/Projects/my-blog/resources/views/layouts/app.blade.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/admin/main.blade.php",
+		"/Users/macbookpro/Projects/my-blog/public/js/scripts.js",
+		"/Users/macbookpro/Projects/my-blog/resources/views/frontend/index.blade.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Controllers/FrontendController.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/frontend/show.blade.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/frontend/category.blade.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/frontend/search.blade.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Kernel.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Middleware/AdminLogin.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/macbookpro/Projects/my-blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/macbookpro/Projects/my-blog/app/User.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Controllers/AdminController.php",
+		"/Users/macbookpro/Projects/my-blog/routes/web.php",
+		"/Users/macbookpro/Projects/Templates/My Blog/startbootstrap-blog-post-gh-pages/index.html",
+		"/Users/macbookpro/Downloads/startbootstrap-blog-home-gh-pages/index.html",
+		"/Users/macbookpro/Projects/my-blog/resources/views/post/create.blade.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Controllers/PostController.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/post/index.blade.php",
+		"/Users/macbookpro/Projects/my-blog/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/post/edit.blade.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/category/index.blade.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/admin/index.blade.php",
+		"/Users/macbookpro/Projects/my-blog/resources/views/category/create.blade.php",
+		"/Users/macbookpro/Projects/my-blog/app/Category.php",
+		"/Users/macbookpro/Projects/my-blog/app/Post.php",
+		"/Users/macbookpro/Projects/my-blog/database/migrations/2021_10_11_154814_create_posts_table.php",
+		"/Users/macbookpro/Projects/my-blog/app/Http/Controllers/CategoryController.php",
+		"/Users/macbookpro/Projects/news24/app/Category.php",
+		"/Users/macbookpro/Projects/news24/database/migrations/2021_09_30_061151_create_categories_table.php",
+		"/Users/macbookpro/Projects/news24/webpack.mix.js",
+		"/Users/macbookpro/Projects/news24/resources/assets/css/icofont.min.css",
+		"/Users/macbookpro/Projects/news24/resources/assets/css/style.css",
+		"/Users/macbookpro/Projects/blood-bank/Modules/Division/Entities/Commune.php",
+		"/Users/macbookpro/Library/ScreenRecordings/4291061C-DFA7-4EE6-8334-B66AF37E5424.mov",
+		"/Users/macbookpro/Projects/blood-bank/Modules/User/Database/Seeders/UserDatabaseSeeder.php",
+		"/Users/macbookpro/Library/Application Support/Sublime Text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/macbookpro/Library/Application Support/Sublime Text/Packages/User/Side Bar.sublime-settings",
+		"/Users/macbookpro/Library/Application Support/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/macbookpro/Library/Application Support/Sublime Text/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/macbookpro/Projects/news24/Modules/User/Database/Seeders/UserDatabaseSeeder.php",
+		"/Users/macbookpro/Projects/news24/public/img/user_login.png",
+		"/Users/macbookpro/Projects/news24/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Users/macbookpro/Projects/news24/database/migrations/2014_10_12_000000_create_users_table.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/macbookpro/Projects/my-blog"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/admin/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/frontend/category.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/frontend/show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3955,
+								3955
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/admin/main.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6208,
+								6208
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".env",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/DotENV/DotENV.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/FrontendController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2257,
+								2257
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"postco",
+				"app/Http/Controllers/PostController.php"
+			],
+			[
+				"category/",
+				"resources/views/category/index.blade.php"
+			],
+			[
+				"categoryC",
+				"app/Http/Controllers/CategoryController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 446.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
